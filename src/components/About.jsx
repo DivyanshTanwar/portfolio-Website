@@ -9,11 +9,12 @@ const About = () => {
             <div className='pb-8'>
                 <p className=' text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-xl mt-20'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nobis asperiores cupiditate exercitationem dolore blanditiis! Facere fuga necessitatibus, odio tempora neque eligendi voluptatibus adipisci incidunt reprehenderit temporibus aperiam, cum assumenda voluptatem. Vitae nesciunt repellendus libero, totam tenetur adipisci reiciendis velit hic sit, animi rerum similique necessitatibus consequatur pariatur natus inventore eligendi dolore nam nulla iusto! Odio incidunt modi nisi corrupti ex?</p>
+            <p className='text-xl mt-20'>Hey!!! I am Junior in Netaji Subhas University of Technology currently pursuing Electronics and Communication Engineering.
+            I am a Tech Enthusiast and likes working on new technologies.</p>
 
             <br />
 
-            <p className='text-xl'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut, iure libero? Sint, vero? Quas quisquam, aliquid repellat aut suscipit dignissimos itaque optio, modi rem architecto voluptate in? Deserunt consectetur dicta, voluptatem tempora rem maxime eius repellat explicabo perspiciatis quis impedit quam harum ea, nemo nostrum architecto! Ad sed error possimus!</p>
+            <p className='text-xl'> I have developed a few projects like Blogging website, portfolio website and have implemented some Machine Learning Models like Face Recognition,Helmet and Number Plate Detection and Volume Control Using Hand Gesture etc.</p>
         </div>
     </div>
   )
